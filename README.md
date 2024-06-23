@@ -1,6 +1,14 @@
 ## Hi there 👋
-I’m passionate about Artificial Intelligence (AI), Machine Learning (ML), and Data. As an enthusiast in this field, I love exploring data, building models, and solving real-world problems. My tech stack includes Python, TensorFlow, PyTorch, and SQL. I am passionate for navigating AI-Driven Operational Excellence & Workflows!
+I’m passionate about Artificial Intelligence (AI), Machine Learning (ML), and Data. As an enthusiast in this field, I love exploring data, building models, and solving real-world problems. I am passionate for navigating AI-Driven Operational Excellence & Workflows!
 Let’s connect and collaborate!
+## Skills & Experiences
+* Python
+* TensorFlow
+* PyTorch
+* SQL
+* Visualization
+* Data Science
+
 - 📫 How to reach me **maruf.hossain.1997@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
