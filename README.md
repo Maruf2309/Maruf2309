@@ -1,7 +1,7 @@
 ## Hi there 👋
 I’m passionate about Artificial Intelligence (AI), Machine Learning (ML), and Data. As an enthusiast in this field, I love exploring data, building models, and solving real-world problems. I am passionate for navigating AI-Driven Operational Excellence & Workflows!
 Let’s connect and collaborate!
-## Skills & Experiences
+### Skills & Experiences
 * Python
 * TensorFlow
 * PyTorch
