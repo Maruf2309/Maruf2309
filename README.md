@@ -1,5 +1,5 @@
-## Hi there 👋
-**Strategic Data Analyst | Aspiring AI Engineer | Business & Technology Leader**
+## **Strategic Data Analyst | Aspiring AI Engineer | Business & Technology Leader**
+
 I’m **Md Maruf Hossain**, a results-driven business and data professional with **13+ years of experience** across strategy, operations, analytics, and leadership in the **electrical goods and manufacturing industry**. 
 I’m passionate about Artificial Intelligence (AI), Machine Learning (ML), and Data. As an enthusiast in this field, I love exploring data, building models, and solving real-world problems. I am passionate for navigating AI-Driven Operational Excellence & Workflows!
 
@@ -23,9 +23,9 @@ To master the **end-to-end AI ecosystem**, from **data collection to AI agent au
 ---
 
 ## 🏗️ My Learning Journey
-**Bootcamp Duration:** 8 Months ( Nov 2025 – Jul 2026 )  
+**Data Science & AI Journey** ( Jan 2022 – Continue.. )  
 
-A structured, project-driven path covering 84 modules:  
+A structured, project-driven path focusing:  
 1. **Programming & Core Python**  
 2. **Data Analysis & Visualization**  
 3. **Statistics + Math for ML**  
